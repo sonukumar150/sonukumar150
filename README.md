@@ -2,6 +2,7 @@
 - 👀 I’m interested in learning and exploring new things 
 - ✍️ I spent hours to learn SQL, Python, Machine learning, and visualisation tools such as Power BI, and Tableau.             
 - ✨ Passion: Using data to tell stories and derive insights for business success.
+- ⚡ Fun fact: I ❤️ to travel a lot, and roam around
 
 
 
